@@ -1,18 +1,18 @@
-h1{
+.intro{
   text-align: center;
   font-family: Arial, Helvetica, sans-serif; 
-}
-h2.intro {
+
   font-style: bold;
-  font-family: 'Franklin Gothic Medium';
-  text-align: center;
+  
+  color: rgb(68, 58, 211);
 
-}
-p.intro{
+  padding: 20px;
+  border-color: gold;
+  border-style: dashed;
 
-
-}
-img.intro{
-
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
